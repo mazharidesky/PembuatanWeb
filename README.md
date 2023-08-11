@@ -1,2 +1,2 @@
 # PembuatanWeb
-Mencari pengembang web yang handal
+Repository ini digunakan untuk mencari pengembang web yang handal
