@@ -5,3 +5,4 @@ berkas ini, gunakan format beriku:
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**  
 
 Berikut pengembang yang diterima:  
+* Muhammad Azhari Desky [pengembang web yang baru belajar].
